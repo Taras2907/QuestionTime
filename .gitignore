@@ -26,6 +26,7 @@ media
 
 # Distribution / packaging
 .Python
+udemy_lvl_4_env/
 build/
 develop-eggs/
 dist/
