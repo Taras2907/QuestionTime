@@ -4,10 +4,6 @@ Regular questions and answers forum to learn basics of Django Rest-Framework and
 
 Tech stack: PYTHON3, DJANGO, REST-FRAMEWORK, VUE.JS, POSTGRESQL
 
-
-# Login
-![General view](https://github.com/Taras2907/QuestionTime/blob/master/description_images/login.png)
-
 # Registration
 ![Registration](https://github.com/Taras2907/QuestionTime/blob/master/description_images/registration_q.png)
 
